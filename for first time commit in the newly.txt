@@ -1,0 +1,17 @@
+for first time commit in the newly created repo
+git init
+git add .
+git commit -m "commit message"
+git branch -M main
+git remote add origin github-repo-url
+git push -u origin main
+when asked like who are you
+
+Mani S
+2:46 PM
+git config user.name "your github username"
+git config user.email "your github email"
+for further commits in same repo
+git add .
+git commit -m "commit message"
+git push
